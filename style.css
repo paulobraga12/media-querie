@@ -45,11 +45,19 @@
     align-items: center;
     justify-content: center;
     margin-top: 2vh;
+
+   
+    
+   }
+   button{
+    width: 80vw;
+    height: 6vh;
     background-color: #fa0caf;
     outline: none;
     border: none;
-    border-radius: 5vh;
+    border-radius: 5px;
     padding-left: 2vh;
+
 
    }
    .facalogin {
